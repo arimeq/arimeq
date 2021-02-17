@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Typescript, Angular, Azure DevOps (k8s!)
+- 📫 How to reach me: via [twitter](https://twitter.com/arim) or [LinkedIn](https://linkedin.com/in/pawelpruszkowski)
+- 💬 Ask me about: Javascript, CSS, any other webdev topic - happy to help!
+
+My motto:
+
+> Any technology distinguishable from magic is insufficiently advanced
+
 <!--
 **arimeq/arimeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
