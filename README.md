@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Typescript, Angular, Azure DevOps (k8s!)
+- 🌱 I’m currently learning Typescript, Angular, ngxs, cypress
 - 📫 How to reach me: via [twitter](https://twitter.com/arim) or [LinkedIn](https://linkedin.com/in/pawelpruszkowski)
 - 💬 Ask me about: Javascript, CSS, any other webdev topic - happy to help!
 
