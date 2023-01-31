@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Typescript, Angular, ngxs, cypress
+- 🌱 I’m currently learning react, node.js, AWS, Terraform
+- 😄 Pronouns: he/him
 - 📫 How to reach me: via [twitter](https://twitter.com/arim) or [LinkedIn](https://linkedin.com/in/pawelpruszkowski)
-- 💬 Ask me about: Javascript, CSS, any other webdev topic - happy to help!
+- 💬 Ask me about: Javascript/Typescript, CSS, any other webdev topic - happy to help!
 
 My motto:
 
